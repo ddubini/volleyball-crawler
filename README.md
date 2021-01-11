@@ -7,11 +7,17 @@
 ### URL
 검증에 사용한 URL 링크
 ⭐️ 홈팀
+
 https://www.kovo.co.kr/game/v-league/11141_game-summary.asp?season=017&g_part=201&r_round=4&g_num=113&
+
 ⭐️ 원정팀
+
 https://www.kovo.co.kr/game/v-league/11141_game-summary.asp?season=017&g_part=201&r_round=2&g_num=72&
+
 ⭐️ 과거 기록
+
 https://www.kovo.co.kr/game/v-league/11141_game-summary.asp?season=015&g_part=201&r_round=1&g_num=29&
+
 
 ### 홈팀 및 원정팀 선수 수
 홈팀인 경우, 원정팀 선수 수는 올바르게 입력하지 않아도 됨.
